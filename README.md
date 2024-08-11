@@ -21,7 +21,7 @@ This project is a simple tool to assess the strength of a password based on crit
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/SaiKrishna033/password-strength-checker.git
+    git clone https://github.com/SaiKrishna033/SCT_CS_3.git
     cd password-strength-checker
     ```
 
